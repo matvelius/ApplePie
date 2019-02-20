@@ -10,8 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var listOfWords = ["llama"]
-//    var listOfWords = ["llama", "swordfish", "kangaroo", "monkey"]
+//    var listOfWords = ["llama"]
+    var listOfWords = ["llama", "swordfish", "kangaroo", "monkey", "hippopotamus"]
     
     let incorrectMovesAllowed = 7
     
